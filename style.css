@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+}
+
+#btn-submit{
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+.item{
+    border: 1px solid black;
+    border-radius: 2rem;
+    margin: 20px;
+    background-color: rgb(173, 169, 169);
+    height: 180px;
+}
+.img img{
+    width: 250px;
+    float: right;
+}
+.img{
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.info{
+    margin-left: 10px;
+}
+
+.info li{
+    list-style: none;
+    margin: 10px;
+}
+.item button {
+    padding: 5px 10px;
+    border-radius: .5rem;
+    display: inline-block;
+    margin-left: 590px;
+    
+}
